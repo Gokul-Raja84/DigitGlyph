@@ -2,7 +2,7 @@ var canvas,ctx;
 var mouseX,mouseY,mouseDown=0;
 var touchX,touchY;
 
-// fucnction for interacting with canvas
+// fucnction for interacting with canvas 
 
 function init()
 {
