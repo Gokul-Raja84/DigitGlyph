@@ -19,13 +19,13 @@ DigitGlyph isn't just about numbers; it's about the expression, intricacy, and u
 
 - DigitGlyph's User InterFace 
 
-![glyph 1](https://github.com/Gokul-Raja84/DigitGlyph--Handwritten_Digit_Recognition_Web_App/assets/106546785/8c406110-bd4a-49eb-835a-bc15b5d3c8ef)
+![glyph 1](https://github.com/Gokul-Raja84/DigitGlyph/assets/106546785/9c09bc9e-3725-47ef-a7b6-5ee10b5433a6)
 
 
 
 - DigitGlyph's digit recognition
 
-![glyph 2](https://github.com/Gokul-Raja84/DigitGlyph--Handwritten_Digit_Recognition_Web_App/assets/106546785/d43a9853-298f-4309-a741-19ba1aab0ca5)
+![glyph 2](https://github.com/Gokul-Raja84/DigitGlyph/assets/106546785/106711e4-1968-405e-993c-671361f20f0c)
 
 
 
