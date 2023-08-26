@@ -159,7 +159,7 @@ var base_url = window.location.origin;
 let model;
 (async function(){  
     console.log("model loading...");  
-    model = await tf.loadLayersModel("https://github.com/Gokul-Raja84/DigitGlyph/main/models/model.json")
+    model = await tf.loadLayersModel("https://gokul-raja84.github.io/DigitGlyph/models/model.json")
     console.log("model loaded..");
 })();
 
