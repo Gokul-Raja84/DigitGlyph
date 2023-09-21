@@ -213,5 +213,5 @@ function displayLabel(data) {
       }
     }
 document.getElementById('result').innerHTML = maxIndex;  
-document.getElementById('confidence').innerHTML = "Confidence: "+(max*100).toFixed(2) + "%";
+document.getElementById('confidence').innerHTML = "Accuracy: "+(max*100).toFixed(2) + "%";
 }
